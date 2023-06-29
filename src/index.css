@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-color{
+  /* color: #b31ba3 */
+  color: #3a1a5f;
+}
+
+.bg-price{
+  background-color: #d9edf7;
+}
+
+.logo-text {
+    font-size: xx-large;
+    color: gold;
+    font-weight: bold;
+}
